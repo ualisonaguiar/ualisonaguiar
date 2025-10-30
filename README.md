@@ -20,17 +20,15 @@ DevOps / Infra: Docker, Jenkins, Ansible, Zabbix
 
 Instituições: Exército Brasileiro, INEP, Presidência da República, IPEA
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Zend](https://img.shields.io/badge/Zend-4CAF50?style=for-the-badge&logo=zend&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-
-
-
+![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=#FFFFFF)
+![Zabbix](https://img.shields.io/badge/Zabbix-E60000?style=for-the-badge&logo=zabbix&logoColor=white)
 
 ### 🤖 Linguagens e Tecnologias
 <img 
