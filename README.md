@@ -60,8 +60,8 @@ Instituições: Exército Brasileiro, INEP, Presidência da República, IPEA
 
 <img 
     align="left" 
-    alt="GitLab" 
-    title="GitLab"
+    alt="Ansible" 
+    title="Ansible"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original-wordmark.svg" 
